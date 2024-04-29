@@ -10,7 +10,7 @@
 - Nicolás Montaño Arias
 
 ## Objetivo Principal:
-El objetivo principal de este proyecto es desarrollar un modelo predictivo para evaluar la salud mental basado en la música escuchada por un individuo. 
+El objetivo principal de este proyecto es desarrollar un modelo predictivo para evaluar los efectos de la música escuchada por un individuo. 
 ## Objetivos Específicos:
 1. Refinar y optimizar la base de datos existente, realizando una limpieza exhaustiva de los datos, eliminando valores atípicos y asegurando la consistencia y calidad de los registros, para garantizar la fiabilidad de los resultados obtenidos en el análisis y la construcción del modelo predictivo.
    
