@@ -14,4 +14,4 @@ El objetivo principal de este proyecto es desarrollar un modelo predictivo para 
 ## Objetivos Específicos:
 1. Refinar y optimizar la base de datos existente, realizando una limpieza exhaustiva de los datos, eliminando valores atípicos y asegurando la consistencia y calidad de los registros, para garantizar la fiabilidad de los resultados obtenidos en el análisis y la construcción del modelo predictivo.
    
-2. Implementar modelos de aprendizaje automático, como regresión logística o redes neuronales, para predecir la salud mental de un individuo en función de su historial de escucha de música, e iterar en el ajuste de hiperparámetros y la selección de características para mejorar la precisión del modelo.
+2. Implementar modelos de aprendizaje automático, como regresión logística o svm, para predecir la salud mental de un individuo en función de su historial de escucha de música, e iterar en el ajuste de hiperparámetros y la selección de características para mejorar la precisión del modelo.
